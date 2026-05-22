@@ -157,6 +157,7 @@ README.md
 
 ---
 
-#  Considerações Finais
+#  tela
 
-O projeto TelePronto foi desenvolvido com foco em clareza, acessibilidade e rapidez no atendimento médico remoto, garantindo uma experiência simples e segura para usuários em situações de urgência leve.
+<img width="2036" height="767" alt="TelePronto (1)" src="https://github.com/user-attachments/assets/60e5ed13-6338-40fe-8c25-b92c73d8ccbe" />
+
