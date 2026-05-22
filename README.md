@@ -79,7 +79,7 @@ Criar uma interface simples, intuitiva e acessível para:
 
 ---
 
-# ♿ Análise de Acessibilidade
+#  Análise de Acessibilidade
 
 O sistema foi pensado para usuários que podem estar:
 
